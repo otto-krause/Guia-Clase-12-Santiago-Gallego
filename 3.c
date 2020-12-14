@@ -1,6 +1,6 @@
 #include<stdio.h >
 #include <stdlib.h>
-int ph(int a, int b)
+int ph(int a, int b)//Igual al ejercicio 2.-
 {
 int ph;	
 ph=a*100/b;

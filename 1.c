@@ -17,8 +17,8 @@ return(n1);
 void main()
 {
 int n, n1;
-n = N();
-n1= N1();
-printf("los numeros ingresados son %d\n",n);
-printf("los numeros ingresados son  %d\n",n1);
+//n = N();
+//n1= N1();
+printf("los numeros ingresados son %d\n", N());//Si se no se utilizan los valores, puede llamarse a la función desde el printf.
+printf("los numeros ingresados son  %d\n", N1());
 }

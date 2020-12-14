@@ -8,7 +8,7 @@ return rt;
 }
 void main()
 {
-int r1,r2,r3,r4,r5;
+int r1,r2,r3,r4,r5;//Estructuras repetitivas para los ingresos.
 printf("ingresar las 5 resistencias");
 scanf("%d",&r1);
 scanf("%d",&r2);
